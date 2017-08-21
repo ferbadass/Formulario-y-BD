@@ -16,7 +16,7 @@ public class Formulario {
      */
     public static void main(String[] args) {
         FormularioInterfaz Objeto = new FormularioInterfaz();
-        Objeto.setVisible(true);
+        Objeto.setVisible(true);        
     }
     
 }
